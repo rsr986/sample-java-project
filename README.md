@@ -1,4 +1,4 @@
-Edidted for pull request
+Edidted for push request
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
